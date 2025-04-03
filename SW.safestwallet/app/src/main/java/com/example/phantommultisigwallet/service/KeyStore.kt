@@ -1,7 +1,7 @@
-package com.example.phantommultisigwallet.service
+package com.safestwallet.sw.service
 
-import com.example.phantommultisigwallet.util.Ed25519
-import com.example.phantommultisigwallet.util.Mnemonic
+import com.safestwallet.sw.util.Ed25519
+import com.safestwallet.sw.util.Mnemonic
 import java.security.SecureRandom
 
 class KeyStore {

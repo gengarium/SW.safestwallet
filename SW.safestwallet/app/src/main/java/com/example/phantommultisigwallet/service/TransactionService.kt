@@ -1,9 +1,9 @@
-package com.example.phantommultisigwallet.service
+package com.safestwallet.sw.service
 
-import com.example.phantommultisigwallet.model.MultiSigWallet
-import com.example.phantommultisigwallet.model.Transaction
-import com.example.phantommultisigwallet.repository.WalletRepository
-import com.example.phantommultisigwallet.repository.WhitelistManager
+import com.safestwallet.sw.model.MultiSigWallet
+import com.safestwallet.sw.model.Transaction
+import com.safestwallet.sw.repository.WalletRepository
+import com.safestwallet.sw.repository.WhitelistManager
 
 class TransactionService(
     private val walletRepository: WalletRepository,

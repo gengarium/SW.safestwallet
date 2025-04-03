@@ -1,5 +1,6 @@
+cat > app/src/main/res/values/strings.xml << 'EOF'
 <resources>
-    <string name="app_name">Multi-Sig Wallet</string>
+    <string name="app_name">SW.safestwallet</string>
     <string name="title_home">Home</string>
     <string name="title_whitelist">Whitelist</string>
     <string name="title_wallet">Wallet</string>
@@ -10,3 +11,4 @@
     <string name="action_export_whitelist">Export Whitelist</string>
     <string name="action_send">Send</string>
 </resources>
+EOF

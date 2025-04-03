@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.model
+package com.safestwallet.sw.model
 
 class MultiSigWallet(
     private val privateKey1: ByteArray,

@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.phantommultisigwallet.ui.home.HomeFragment"
+        android:name="com.safestwallet.sw.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home">
         <action
@@ -17,13 +17,13 @@
 
     <fragment
         android:id="@+id/navigation_whitelist"
-        android:name="com.example.phantommultisigwallet.ui.whitelist.WhitelistFragment"
+        android:name="com.safestwallet.sw.ui.whitelist.WhitelistFragment"
         android:label="@string/title_whitelist"
         tools:layout="@layout/fragment_whitelist" />
 
     <fragment
         android:id="@+id/navigation_wallet"
-        android:name="com.example.phantommultisigwallet.ui.wallet.WalletFragment"
+        android:name="com.safestwallet.sw.ui.wallet.WalletFragment"
         android:label="@string/title_wallet"
         tools:layout="@layout/fragment_wallet">
         <action
@@ -33,7 +33,7 @@
 
     <fragment
         android:id="@+id/navigation_send_transaction"
-        android:name="com.example.phantommultisigwallet.ui.transaction.SendTransactionFragment"
+        android:name="com.safestwallet.sw.ui.transaction.SendTransactionFragment"
         android:label="Send"
         tools:layout="@layout/fragment_send_transaction" />
 </navigation>

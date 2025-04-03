@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.util
+package com.safestwallet.sw.util
 
 import java.security.MessageDigest
 import java.security.SecureRandom

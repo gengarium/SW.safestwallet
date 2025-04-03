@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.ui.transaction
+package com.safestwallet.sw.ui.transaction
 
 import android.app.AlertDialog
 import android.os.Bundle
@@ -11,13 +11,13 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
-import com.example.phantommultisigwallet.R
-import com.example.phantommultisigwallet.databinding.FragmentSendTransactionBinding
-import com.example.phantommultisigwallet.repository.WalletRepository
-import com.example.phantommultisigwallet.repository.WhitelistManager
-import com.example.phantommultisigwallet.service.BlockchainClient
-import com.example.phantommultisigwallet.service.TransactionService
-import com.example.phantommultisigwallet.ui.wallet.WalletViewModel
+import com.safestwallet.sw.R
+import com.safestwallet.sw.databinding.FragmentSendTransactionBinding
+import com.safestwallet.sw.repository.WalletRepository
+import com.safestwallet.sw.repository.WhitelistManager
+import com.safestwallet.sw.service.BlockchainClient
+import com.safestwallet.sw.service.TransactionService
+import com.safestwallet.sw.ui.wallet.WalletViewModel
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.coroutines.launch
 

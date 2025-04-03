@@ -1,11 +1,11 @@
-package com.example.phantommultisigwallet.ui.whitelist
+package com.safestwallet.sw.ui.whitelist
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.phantommultisigwallet.databinding.ItemWhitelistBinding
+import com.safestwallet.sw.databinding.ItemWhitelistBinding
 
 class WhitelistAdapter : ListAdapter<String, WhitelistAdapter.ViewHolder>(DiffCallback()) {
 

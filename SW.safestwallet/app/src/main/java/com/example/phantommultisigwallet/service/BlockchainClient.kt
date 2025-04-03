@@ -1,6 +1,6 @@
-package com.example.phantommultisigwallet.service
+package com.safestwallet.sw.service
 
-import com.example.phantommultisigwallet.model.SignedTransaction
+import com.safestwallet.sw.model.SignedTransaction
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.util.*

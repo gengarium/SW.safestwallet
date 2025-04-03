@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.util
+package com.safestwallet.sw.util
 
 import org.bouncycastle.crypto.generators.Ed25519KeyPairGenerator
 import org.bouncycastle.crypto.params.Ed25519KeyGenerationParameters

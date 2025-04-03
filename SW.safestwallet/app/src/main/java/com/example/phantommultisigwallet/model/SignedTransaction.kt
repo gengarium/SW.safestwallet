@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.model
+package com.safestwallet.sw.model
 
 data class SignedTransaction(
     val transaction: Transaction,

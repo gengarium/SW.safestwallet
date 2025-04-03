@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.ui.wallet
+package com.safestwallet.sw.ui.wallet
 
 import android.app.AlertDialog
 import android.os.Bundle
@@ -8,11 +8,11 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import com.example.phantommultisigwallet.R
-import com.example.phantommultisigwallet.databinding.DialogSeedPhraseBinding
-import com.example.phantommultisigwallet.databinding.FragmentWalletBinding
-import com.example.phantommultisigwallet.repository.WalletRepository
-import com.example.phantommultisigwallet.service.BlockchainClient
+import com.safestwallet.sw.R
+import com.safestwallet.sw.databinding.DialogSeedPhraseBinding
+import com.safestwallet.sw.databinding.FragmentWalletBinding
+import com.safestwallet.sw.repository.WalletRepository
+import com.safestwallet.sw.service.BlockchainClient
 
 class WalletFragment : Fragment() {
     private lateinit var binding: FragmentWalletBinding

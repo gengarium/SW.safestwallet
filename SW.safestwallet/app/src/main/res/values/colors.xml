@@ -1,3 +1,4 @@
+cat > app/src/main/res/values/colors.xml << 'EOF'
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="purple_200">#FFBB86FC</color>
@@ -9,6 +10,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="error">#F44336</color>
     <color name="success">#4CAF50</color>
-    <color name="primary">#8A2BE2</color>  <!-- Purple like Phantom -->
+    <color name="primary">#8A2BE2</color>
     <color name="secondary">#5D3FD3</color>
+    <color name="ic_launcher_background">#8A2BE2</color>
 </resources>
+EOF

@@ -1,11 +1,11 @@
-package com.example.phantommultisigwallet
+package com.safestwallet.sw
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
-import com.example.phantommultisigwallet.databinding.ActivityMainBinding
+import com.safestwallet.sw.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

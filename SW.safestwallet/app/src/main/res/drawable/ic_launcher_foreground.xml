@@ -1,0 +1,18 @@
+mkdir -p app/src/main/res/drawable
+cat > app/src/main/res/drawable/ic_launcher_foreground.xml << 'EOF'
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38h32v32h-32z"/>
+    <path
+        android:fillColor="#8A2BE2"
+        android:pathData="M54,58m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+    <path
+        android:fillColor="#8A2BE2"
+        android:pathData="M54,50m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+</vector>
+EOF

@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.ui.home
+package com.safestwallet.sw.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
-import com.example.phantommultisigwallet.R
-import com.example.phantommultisigwallet.databinding.FragmentHomeBinding
-import com.example.phantommultisigwallet.ui.wallet.WalletViewModel
+import com.safestwallet.sw.R
+import com.safestwallet.sw.databinding.FragmentHomeBinding
+import com.safestwallet.sw.ui.wallet.WalletViewModel
 
 class HomeFragment : Fragment() {
     private lateinit var binding: FragmentHomeBinding

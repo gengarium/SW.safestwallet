@@ -6,10 +6,11 @@ plugins {
 }
 
 android {
+namespace "com.safestwallet.sw"
     compileSdkVersion 33
     
     defaultConfig {
-        applicationId "com.example.phantommultisigwallet"
+    applicationId "com.safestwallet.sw"
         minSdkVersion 26
         targetSdkVersion 33
         versionCode 1

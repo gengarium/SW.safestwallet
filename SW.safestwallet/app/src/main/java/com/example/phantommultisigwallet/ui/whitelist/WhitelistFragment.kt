@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.ui.whitelist
+package com.safestwallet.sw.ui.whitelist
 
 import android.app.AlertDialog
 import android.content.Intent
@@ -9,9 +9,9 @@ import android.view.ViewGroup
 import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.phantommultisigwallet.databinding.DialogAddAddressBinding
-import com.example.phantommultisigwallet.databinding.FragmentWhitelistBinding
-import com.example.phantommultisigwallet.repository.WhitelistManager
+import com.safestwallet.sw.databinding.DialogAddAddressBinding
+import com.safestwallet.sw.databinding.FragmentWhitelistBinding
+import com.safestwallet.sw.repository.WhitelistManager
 
 class WhitelistFragment : Fragment() {
     private lateinit var binding: FragmentWhitelistBinding

@@ -1,4 +1,4 @@
-package com.example.phantommultisigwallet.repository
+package com.safestwallet.sw.repository
 
 import android.content.Context
 import android.util.Log

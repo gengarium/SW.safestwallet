@@ -1,11 +1,11 @@
-package com.example.phantommultisigwallet.repository
+package com.safestwallet.sw.repository
 
 import android.content.Context
 import android.util.Log
-import com.example.phantommultisigwallet.model.MultiSigWallet
-import com.example.phantommultisigwallet.model.SignedTransaction
-import com.example.phantommultisigwallet.model.Transaction
-import com.example.phantommultisigwallet.service.KeyStore
+import com.safestwallet.sw.model.MultiSigWallet
+import com.safestwallet.sw.model.SignedTransaction
+import com.safestwallet.sw.model.Transaction
+import com.safestwallet.sw.service.KeyStore
 
 class WalletRepository(private val context: Context) {
     private val keyStore = KeyStore()

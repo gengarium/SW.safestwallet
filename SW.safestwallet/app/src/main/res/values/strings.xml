@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multi-Sig Wallet</string>
+    <string name="title_home">Home</string>
+    <string name="title_whitelist">Whitelist</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="title_settings">Settings</string>
+    <string name="action_add_to_whitelist">Add to Whitelist</string>
+    <string name="action_remove_from_whitelist">Remove from Whitelist</string>
+    <string name="action_import_whitelist">Import Whitelist</string>
+    <string name="action_export_whitelist">Export Whitelist</string>
+    <string name="action_send">Send</string>
+</resources>

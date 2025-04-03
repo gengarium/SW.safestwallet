@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.phantommultisigwallet.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_home_to_send_transaction"
+            app:destination="@id/navigation_send_transaction" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_whitelist"
+        android:name="com.example.phantommultisigwallet.ui.whitelist.WhitelistFragment"
+        android:label="@string/title_whitelist"
+        tools:layout="@layout/fragment_whitelist" />
+
+    <fragment
+        android:id="@+id/navigation_wallet"
+        android:name="com.example.phantommultisigwallet.ui.wallet.WalletFragment"
+        android:label="@string/title_wallet"
+        tools:layout="@layout/fragment_wallet">
+        <action
+            android:id="@+id/action_wallet_to_send_transaction"
+            app:destination="@id/navigation_send_transaction" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_send_transaction"
+        android:name="com.example.phantommultisigwallet.ui.transaction.SendTransactionFragment"
+        android:label="Send"
+        tools:layout="@layout/fragment_send_transaction" />
+</navigation>

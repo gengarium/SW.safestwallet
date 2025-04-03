@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Seed Phrase 1 (First Private Key)"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_view_seed_phrase1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_seed_phrase"
+        android:padding="12dp"
+        android:textIsSelectable="true" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_input_seed1"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:visibility="gone">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edit_text_seed1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter seed phrase 1" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Seed Phrase 2 (Second Private Key)"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/text_view_seed_phrase2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/bg_seed_phrase"
+        android:padding="12dp"
+        android:textIsSelectable="true" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/text_input_seed2"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:visibility="gone">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/edit_text_seed2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter seed phrase 2" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="IMPORTANT: Store both seed phrases securely! You need both to recover your multi-signature wallet."
+        android:textColor="@color/error"
+        android:textStyle="bold" />
+
+</LinearLayout>

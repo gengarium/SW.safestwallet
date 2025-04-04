@@ -1,0 +1,362 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /home/gengarium/.gradle/caches/8.13/transforms/99f66855018e0c32f23359c3a963537e/transformed/viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/58720984208039b69c238732c8532e5a/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/d6d1fa570d315fbfbe50a1f84c69e240/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.8.0] /home/gengarium/.gradle/caches/8.13/transforms/a6b71538f437169d07da495f27033484/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gengarium/.gradle/caches/8.13/transforms/d0f8109f9e5d9a114e8700cda289bdbe/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gengarium/.gradle/caches/8.13/transforms/0f2a7731681c7e1d98e95e9067052392/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gengarium/.gradle/caches/8.13/transforms/6983e6ef4d2ec6cbcfd6728511f77241/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/78a3b6afeb784406035747bba1fc98d8/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/fcb85d9614cb4324ad662795fa2bb32b/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/f4a1f0d2154c9d43f65764d2b423a5ce/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /home/gengarium/.gradle/caches/8.13/transforms/d74fbda03190ee563de12052d5f7a8bd/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/gengarium/.gradle/caches/8.13/transforms/047720c282b60e0053fd3674ddf8b364/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/b36d3cd202f3bfdf5adba934f1d85b38/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/0125f5bf235a7203e09d7d772c9cb04a/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/gengarium/.gradle/caches/8.13/transforms/666f58a127dde789c0fc660ef9fd1a97/transformed/activity-ktx-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] /home/gengarium/.gradle/caches/8.13/transforms/c26ed678cf112363363f08b7fc2d5468/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/c20f6abf0d73373256ea04c37ac1edb1/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/18091b28d943417248f0e23f60ed72ed/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/6da3281245fac5b47266d8610c78f873/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gengarium/.gradle/caches/8.13/transforms/75a602bfbdaec8e36107147d2fd08055/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gengarium/.gradle/caches/8.13/transforms/f0c35cab83ba98194dd8f220e08f966f/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/7002abbf7af5984ab5a34deebfe1b2f5/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/b06d711a40c710f94c8301c3a8afe4c4/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/99cbe5ecf136c32ac9638f20aef15394/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/ae428f1239608406ae32794c9fa75cc2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/6f7f171914d43fcfbff08718347ccaa6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/b9e25a3eb45dde5c10568879c54c0efa/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/cd25950429ee20b56659e1286d4bef37/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/88f0ba6e137d8d61a1f7629c6f3e3a5e/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/8b54653190a4b8bc6d62daa1ddefc203/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/3bfd3d37effa6216ed5779689f733f76/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/fcfff1316c987b93bbf5587d51a7b7c8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/57bfda07d9171e095f7b6746ce48b24c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/760c37414b5b04d3913855ecb2cd0068/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/1062fdd18512f17d55284e91c8747fc0/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/5d9445dd2282f87d5ca965170e1c80e6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/bfc2378308e13fd35d9c1cb94ac0b0b3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/53af95e710e924c8bf1bee1d13353669/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/gengarium/.gradle/caches/8.13/transforms/4fdfdc3c0cd8d268f2c8171a9c4af986/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/b25968ce6414650f3f8dc1ed521c70a6/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/eca1869eff2d7cbd3d187eca20a98e8d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/5686257ce73ad7dd78bc8809cd8446ff/transformed/lifecycle-livedata-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/d973cae40952fca4dd73e86df9d33339/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/646cf5cb5be7cbde57a37d27499e1365/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/1d2a16cf540794722c0e419b259ecf48/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/f8fb51d4c9a621813ca1cee8dbd4b32e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/3a85a568e5c68144afea4344c2e1458a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gengarium/.gradle/caches/8.13/transforms/ba640f5dfd8d63b4298df04522ef1717/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/93374579731415a0d53da9494535acaa/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/3206ae77551cff8e532303b5905ce2cb/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/2c599c0f22d6781b1fb810a64bf2da4a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/14413f5c318f64ebc4b2bfcd2764c926/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/8cf865701a3bc1df603c01ba0464e251/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:3:5-16:19
+MERGED from [com.google.android.material:material:1.8.0] /home/gengarium/.gradle/caches/8.13/transforms/a6b71538f437169d07da495f27033484/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] /home/gengarium/.gradle/caches/8.13/transforms/a6b71538f437169d07da495f27033484/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gengarium/.gradle/caches/8.13/transforms/d0f8109f9e5d9a114e8700cda289bdbe/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gengarium/.gradle/caches/8.13/transforms/d0f8109f9e5d9a114e8700cda289bdbe/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/f8fb51d4c9a621813ca1cee8dbd4b32e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/f8fb51d4c9a621813ca1cee8dbd4b32e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:6:9-41
+	android:icon
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:5:9-58
+	android:allowBackup
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:4:9-35
+activity#com.safestwallet.sw.MainActivity
+ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:9:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml:13:27-74
+uses-sdk
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] /home/gengarium/.gradle/caches/8.13/transforms/99f66855018e0c32f23359c3a963537e/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /home/gengarium/.gradle/caches/8.13/transforms/99f66855018e0c32f23359c3a963537e/transformed/viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/58720984208039b69c238732c8532e5a/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/58720984208039b69c238732c8532e5a/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/d6d1fa570d315fbfbe50a1f84c69e240/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/d6d1fa570d315fbfbe50a1f84c69e240/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /home/gengarium/.gradle/caches/8.13/transforms/a6b71538f437169d07da495f27033484/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] /home/gengarium/.gradle/caches/8.13/transforms/a6b71538f437169d07da495f27033484/transformed/material-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gengarium/.gradle/caches/8.13/transforms/d0f8109f9e5d9a114e8700cda289bdbe/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/gengarium/.gradle/caches/8.13/transforms/d0f8109f9e5d9a114e8700cda289bdbe/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gengarium/.gradle/caches/8.13/transforms/0f2a7731681c7e1d98e95e9067052392/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/gengarium/.gradle/caches/8.13/transforms/0f2a7731681c7e1d98e95e9067052392/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gengarium/.gradle/caches/8.13/transforms/6983e6ef4d2ec6cbcfd6728511f77241/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/gengarium/.gradle/caches/8.13/transforms/6983e6ef4d2ec6cbcfd6728511f77241/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/78a3b6afeb784406035747bba1fc98d8/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/78a3b6afeb784406035747bba1fc98d8/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/fcb85d9614cb4324ad662795fa2bb32b/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/fcb85d9614cb4324ad662795fa2bb32b/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/f4a1f0d2154c9d43f65764d2b423a5ce/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/f4a1f0d2154c9d43f65764d2b423a5ce/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /home/gengarium/.gradle/caches/8.13/transforms/d74fbda03190ee563de12052d5f7a8bd/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /home/gengarium/.gradle/caches/8.13/transforms/d74fbda03190ee563de12052d5f7a8bd/transformed/fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/gengarium/.gradle/caches/8.13/transforms/047720c282b60e0053fd3674ddf8b364/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/gengarium/.gradle/caches/8.13/transforms/047720c282b60e0053fd3674ddf8b364/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/b36d3cd202f3bfdf5adba934f1d85b38/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/b36d3cd202f3bfdf5adba934f1d85b38/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/0125f5bf235a7203e09d7d772c9cb04a/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/0125f5bf235a7203e09d7d772c9cb04a/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/gengarium/.gradle/caches/8.13/transforms/666f58a127dde789c0fc660ef9fd1a97/transformed/activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.0] /home/gengarium/.gradle/caches/8.13/transforms/666f58a127dde789c0fc660ef9fd1a97/transformed/activity-ktx-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/gengarium/.gradle/caches/8.13/transforms/c26ed678cf112363363f08b7fc2d5468/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/gengarium/.gradle/caches/8.13/transforms/c26ed678cf112363363f08b7fc2d5468/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/c20f6abf0d73373256ea04c37ac1edb1/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/c20f6abf0d73373256ea04c37ac1edb1/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/18091b28d943417248f0e23f60ed72ed/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/18091b28d943417248f0e23f60ed72ed/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/6da3281245fac5b47266d8610c78f873/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/gengarium/.gradle/caches/8.13/transforms/6da3281245fac5b47266d8610c78f873/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gengarium/.gradle/caches/8.13/transforms/75a602bfbdaec8e36107147d2fd08055/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/gengarium/.gradle/caches/8.13/transforms/75a602bfbdaec8e36107147d2fd08055/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gengarium/.gradle/caches/8.13/transforms/f0c35cab83ba98194dd8f220e08f966f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/gengarium/.gradle/caches/8.13/transforms/f0c35cab83ba98194dd8f220e08f966f/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/7002abbf7af5984ab5a34deebfe1b2f5/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/7002abbf7af5984ab5a34deebfe1b2f5/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/b06d711a40c710f94c8301c3a8afe4c4/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/b06d711a40c710f94c8301c3a8afe4c4/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/99cbe5ecf136c32ac9638f20aef15394/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/99cbe5ecf136c32ac9638f20aef15394/transformed/lifecycle-livedata-core-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/ae428f1239608406ae32794c9fa75cc2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/ae428f1239608406ae32794c9fa75cc2/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/6f7f171914d43fcfbff08718347ccaa6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/6f7f171914d43fcfbff08718347ccaa6/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/b9e25a3eb45dde5c10568879c54c0efa/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/b9e25a3eb45dde5c10568879c54c0efa/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/cd25950429ee20b56659e1286d4bef37/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/cd25950429ee20b56659e1286d4bef37/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/88f0ba6e137d8d61a1f7629c6f3e3a5e/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/88f0ba6e137d8d61a1f7629c6f3e3a5e/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/8b54653190a4b8bc6d62daa1ddefc203/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/8b54653190a4b8bc6d62daa1ddefc203/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/3bfd3d37effa6216ed5779689f733f76/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/3bfd3d37effa6216ed5779689f733f76/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/fcfff1316c987b93bbf5587d51a7b7c8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/fcfff1316c987b93bbf5587d51a7b7c8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/57bfda07d9171e095f7b6746ce48b24c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/57bfda07d9171e095f7b6746ce48b24c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/760c37414b5b04d3913855ecb2cd0068/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/760c37414b5b04d3913855ecb2cd0068/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/1062fdd18512f17d55284e91c8747fc0/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/1062fdd18512f17d55284e91c8747fc0/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/5d9445dd2282f87d5ca965170e1c80e6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/5d9445dd2282f87d5ca965170e1c80e6/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/bfc2378308e13fd35d9c1cb94ac0b0b3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/bfc2378308e13fd35d9c1cb94ac0b0b3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/53af95e710e924c8bf1bee1d13353669/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/gengarium/.gradle/caches/8.13/transforms/53af95e710e924c8bf1bee1d13353669/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/gengarium/.gradle/caches/8.13/transforms/4fdfdc3c0cd8d268f2c8171a9c4af986/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/gengarium/.gradle/caches/8.13/transforms/4fdfdc3c0cd8d268f2c8171a9c4af986/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/b25968ce6414650f3f8dc1ed521c70a6/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/b25968ce6414650f3f8dc1ed521c70a6/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/eca1869eff2d7cbd3d187eca20a98e8d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/eca1869eff2d7cbd3d187eca20a98e8d/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/5686257ce73ad7dd78bc8809cd8446ff/transformed/lifecycle-livedata-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/5686257ce73ad7dd78bc8809cd8446ff/transformed/lifecycle-livedata-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/d973cae40952fca4dd73e86df9d33339/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/d973cae40952fca4dd73e86df9d33339/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/646cf5cb5be7cbde57a37d27499e1365/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/646cf5cb5be7cbde57a37d27499e1365/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/1d2a16cf540794722c0e419b259ecf48/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/1d2a16cf540794722c0e419b259ecf48/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/f8fb51d4c9a621813ca1cee8dbd4b32e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/f8fb51d4c9a621813ca1cee8dbd4b32e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/3a85a568e5c68144afea4344c2e1458a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/3a85a568e5c68144afea4344c2e1458a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gengarium/.gradle/caches/8.13/transforms/ba640f5dfd8d63b4298df04522ef1717/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/gengarium/.gradle/caches/8.13/transforms/ba640f5dfd8d63b4298df04522ef1717/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/93374579731415a0d53da9494535acaa/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/93374579731415a0d53da9494535acaa/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/3206ae77551cff8e532303b5905ce2cb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/3206ae77551cff8e532303b5905ce2cb/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/2c599c0f22d6781b1fb810a64bf2da4a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/2c599c0f22d6781b1fb810a64bf2da4a/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/14413f5c318f64ebc4b2bfcd2764c926/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/14413f5c318f64ebc4b2bfcd2764c926/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/8cf865701a3bc1df603c01ba0464e251/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/8cf865701a3bc1df603c01ba0464e251/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		ADDED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/gengarium/SW.safestwallet/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/gengarium/.gradle/caches/8.13/transforms/0a0cde5651ac281003bed4081a990ba0/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/gengarium/.gradle/caches/8.13/transforms/8de9fb12d8408dce02d8f3495ead8fd7/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/gengarium/.gradle/caches/8.13/transforms/e0f8c4949db62143921b941b6ca91625/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/gengarium/.gradle/caches/8.13/transforms/7b8f9d63761af2079b482f91be2695bb/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.safestwallet.sw.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.safestwallet.sw.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/gengarium/.gradle/caches/8.13/transforms/1e273917127fcca86c3ad5a98289687a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/gengarium/.gradle/caches/8.13/transforms/9dfe1ff025ba67b64873b2331f50b438/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

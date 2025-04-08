@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".ui.wallet.WalletFragment">
+
+    <TextView
+        android:id="@+id/text_wallet_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Multi-Signature Wallet"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/text_wallet_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_wallet_title"
+        tools:text="Wallet: My Wallet\nIndirizzo: 9xK5...,G27E" />
+    
+    <!-- Wallet not created state -->
+    <LinearLayout
+        android:id="@+id/layout_no_wallet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="No Wallet Created Yet"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+            
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Create a new multi-signature wallet or restore an existing one using your seed phrases." />
+            
+        <Button
+            android:id="@+id/button_create_wallet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:text="@string/create_wallet" />
+            
+        <Button
+            android:id="@+id/button_import_wallet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/import_wallet" />
+    </LinearLayout>
+    
+    <!-- Wallet created state -->
+    <LinearLayout
+        android:id="@+id/layout_wallet_details"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/text_wallet_info"
+        app:layout_constraintVertical_bias="0.0">
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Wallet Address"
+            android:textSize="16sp" />
+            
+        <TextView
+            android:id="@+id/text_wallet_address_details"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="#F5F5F5"
+            android:padding="8dp"
+            android:textIsSelectable="true" />
+            
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Multi-Signature Security"
+            android:textSize="16sp" />
+            
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="This wallet requires two private keys to sign transactions, providing enhanced security." />
+            
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal">
+            
+            <Button
+                android:id="@+id/button_send"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:layout_weight="1"
+                android:text="@string/send_transaction" />
+                
+            <Button
+                android:id="@+id/button_receive"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:layout_weight="1"
+                android:text="@string/receive_transaction" />
+        </LinearLayout>
+        
+        <Button
+            android:id="@+id/button_backup_wallet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/backup_wallet" />
+            
+        <Button
+            android:id="@+id/button_transaction_history"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Transaction History" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

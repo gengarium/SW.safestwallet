@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Safest Wallet</string>
+    
+    <!-- Navigazione -->
+    <string name="nav_home">Home</string>
+    <string name="nav_wallet">Wallet</string>
+    <string name="nav_whitelist">Whitelist</string>
+    
+    <!-- Home Fragment -->
+    <string name="welcome_message">Benvenuto nel tuo Safest Wallet</string>
+    <string name="balance_label">Saldo:</string>
+    <string name="last_transactions">Ultime Transazioni</string>
+    <string name="no_transactions">Nessuna transazione recente</string>
+    
+    <!-- Wallet Fragment -->
+    <string name="create_wallet">Crea Wallet</string>
+    <string name="import_wallet">Importa Wallet</string>
+    <string name="wallet_address">Indirizzo Wallet</string>
+    <string name="copy_address">Copia Indirizzo</string>
+    <string name="send_transaction">Invia</string>
+    <string name="receive_transaction">Ricevi</string>
+    <string name="backup_wallet">Backup Wallet</string>
+    <string name="address_copied">Indirizzo copiato negli appunti</string>
+    <string name="enter_amount">Inserisci importo</string>
+    <string name="enter_recipient">Inserisci destinatario</string>
+    <string name="enter_otp">Inserisci codice OTP</string>
+    <string name="verify_otp">Verifica OTP</string>
+    
+    <!-- Whitelist Fragment -->
+    <string name="whitelist_title">Gestione Whitelist</string>
+    <string name="add_to_whitelist">Aggiungi Indirizzo</string>
+    <string name="remove_from_whitelist">Rimuovi</string>
+    <string name="whitelist_empty">Nessun indirizzo nella whitelist</string>
+    <string name="enter_address">Inserisci indirizzo</string>
+    <string name="enter_address_name">Inserisci nome (opzionale)</string>
+    <string name="address_added">Indirizzo aggiunto alla whitelist</string>
+    <string name="address_removed">Indirizzo rimosso dalla whitelist</string>
+    
+    <!-- Dialog -->
+    <string name="add_address_title">Aggiungi Indirizzo Whitelist</string>
+    <string name="add">Aggiungi</string>
+    <string name="cancel">Annulla</string>
+    <string name="confirm">Conferma</string>
+    <string name="logs_title">Log dell\'applicazione</string>
+    
+    <!-- Menu -->
+    <string name="menu_view_logs">Visualizza Log</string>
+    <string name="menu_settings">Impostazioni</string>
+    
+    <!-- Error Messages -->
+    <string name="error_invalid_address">Indirizzo non valido</string>
+    <string name="error_insufficient_funds">Fondi insufficienti</string>
+    <string name="error_transaction_failed">Transazione fallita</string>
+    <string name="error_address_not_whitelisted">Indirizzo non in whitelist</string>
+    <string name="error_invalid_otp">Codice OTP non valido</string>
+    <string name="error_network">Errore di rete</string>
+</resources>

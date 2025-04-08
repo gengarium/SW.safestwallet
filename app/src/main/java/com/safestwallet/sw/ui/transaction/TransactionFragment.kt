@@ -1,5 +1,6 @@
 package com.safestwallet.sw.ui.transaction
 
+import com.safestwallet.sw.viewmodels.WalletViewModel.LoadedWallet
 import android.content.ClipboardManager
 import android.content.Context
 import android.os.Bundle

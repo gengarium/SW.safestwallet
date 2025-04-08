@@ -8,9 +8,10 @@ import androidx.room.RoomDatabase
 /**
  * Database principale dell'applicazione
  */
-@Database(entities = [WalletEntity::class], version = 1, exportSchema = false)
+@Database(entities = [WalletEntity::class, TransactionEntity::class], version = 1, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
     
+    abstract fun transactionDao(): TransactionDao
     abstract fun walletDao(): WalletDao
     
     companion object {

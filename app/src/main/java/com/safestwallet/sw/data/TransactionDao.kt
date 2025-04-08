@@ -2,6 +2,7 @@ package com.safestwallet.sw.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import com.safestwallet.sw.model.TransactionStatus
 
 @Dao
 interface TransactionDao {

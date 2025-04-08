@@ -1,5 +1,6 @@
 package com.safestwallet.sw.ui.wallet
 
+import androidx.navigation.fragment.findNavController
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -78,6 +79,11 @@ class WalletFragment : Fragment() {
         
         buttonSend.setOnClickListener {
             // Implementare in seguito
+            Toast.makeText(context, "Funzionalità di invio in sviluppo", Toast.LENGTH_SHORT).show()
+        }
+
+        buttonSend.setOnClickListener {
+            // Mostra messaggio che la funzionalità è in sviluppo
             Toast.makeText(context, "Funzionalità di invio in sviluppo", Toast.LENGTH_SHORT).show()
         }
         
